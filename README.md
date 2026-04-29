@@ -5,5 +5,3 @@ Building **[Learn AI](https://rajulbabel.github.io/learn-ai/)** - a free, intera
 - Site: https://rajulbabel.github.io/learn-ai/
 - Source: https://github.com/rajulbabel/learn-ai
 - LinkedIn: https://www.linkedin.com/in/rajulbabel
-
-Based in Bangalore.
